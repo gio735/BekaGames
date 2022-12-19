@@ -1,0 +1,15 @@
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\bin\Release\net6.0\TicTacAndToes.exe
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\bin\Release\net6.0\TicTacAndToes.deps.json
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\bin\Release\net6.0\TicTacAndToes.runtimeconfig.json
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\bin\Release\net6.0\TicTacAndToes.dll
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\bin\Release\net6.0\TicTacAndToes.pdb
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.csproj.AssemblyReference.cache
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.AssemblyInfoInputs.cache
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.AssemblyInfo.cs
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.csproj.CoreCompileInputs.cache
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.dll
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\refint\TicTacAndToes.dll
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.pdb
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\TicTacAndToes.genruntimeconfig.cache
+C:\Users\gtura\source\repos\TicTacAndToes\TicTacAndToes\obj\Release\net6.0\ref\TicTacAndToes.dll
